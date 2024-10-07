@@ -3,6 +3,6 @@
 0-rectangle: class Rectangle
 """
 
-class Rectangle:
-    """Empty class that defines a rectangle"""
-    pass
+class Rectangle
+ """Empty class that defines a rectangle"""
+ pass
